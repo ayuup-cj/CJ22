@@ -22,10 +22,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=USERNAME_HERE&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuup-cj&show_icons=true&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ayuup-cj&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuup-cj&layout=compact&theme=tokyonight" />
+</p>
+
