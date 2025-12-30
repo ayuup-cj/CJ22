@@ -35,10 +35,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuup-cj&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=30363D" />
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayuup-cj/snake-animation/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
