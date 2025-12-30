@@ -1,39 +1,106 @@
-<h1 align="center">Hi 👋, I'm Ayuub (CJ)</h1>
+# 👋 Hello, I'm Ayuub Abdirzak!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayuup+(CJ);IT+%2F+Computer+Science+Student;Android+%26+Django+Developer;Future+Software+Engineer" />
-</p>
+### A passionate frontend developer from Somalia 🇸🇴
 
+## 📋 Table of Contents
+- [About Me](#about-me)
+- [Technologies & Tools](#-technologies--tools)
+- [GitHub Stats](#-github-stats)
+- [Current Projects](#-current-projects)
+- [Connect With Me](#-connect-with-me)
+- [Social Profiles](#-social-profiles)
 
----
+## 🎯 About Me
+- 🔭 I'm currently working on **Loan Management System**
+- 🤝 I'm looking to collaborate on **open source projects**
+- 🆘 I'm looking for help with **advanced React patterns**
+- 🌱 I'm currently learning **React Native**
+- 💬 Ask me about **React, Vue and JavaScript**
+- 📫 How to reach me: **[Add your email here]**
+- 📁 All of my projects are available at: **[https://github.com/ayuup-cj](https://github.com/ayuup-cj)**
+- ✍️ I regularly write articles on: **[Add your blog link here]**
+- 📄 Know about my experiences: **[Add your resume link here]**
 
-## 👨‍💻 About Me
-- 🎓 IT / Computer Science Student  
-- 💻 Learning Web & Backend Development  
-- 📱 Android (Java + Firebase)  
-- 🔐 Cybersecurity (CCST – In Progress)  
+### 😄 Fun Fact
+I think I am funny
 
----
-
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,django,firebase,git,github" />
-</p>
-
----
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuup-cj&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&border_color=30363D" />
-</p>
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![Ayuub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuup-cj&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuup-cj&layout=compact&theme=radical&hide_border=true) |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=ayuup-cj&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayuup-cj&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuup-cj&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&border_color=30363D" />
-</p>
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=ayuup-cj&theme=radical&no-frame=true)
 
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ayuup-cj&color=blueviolet)
 
+## 💻 Current Projects
+
+| Project | Description | Status | Link |
+|---------|-------------|--------|------|
+| **Loan Management System** | A comprehensive system for managing loans, payments, and customer data | 🚧 In Progress | [View Project](https://github.com/ayuup-cj/loan-management-system) |
+| **Personal Portfolio** | My personal portfolio website | ✅ Completed | [View Project](https://github.com/ayuup-cj/portfolio) |
+| **React Component Library** | Reusable React components | 📦 In Development | [View Project](https://github.com/ayuup-cj/react-components) |
+
+## 🤝 Connect With Me
+
+| Platform | Username/Link |
+|----------|---------------|
+| **GitHub** | [@ayuup-cj](https://github.com/ayuup-cj) |
+| **LinkedIn** | [Add your LinkedIn] |
+| **Twitter** | [Add your Twitter] |
+| **Email** | [Add your email] |
+| **Portfolio** | [Add your portfolio] |
+
+## 🌐 Social Profiles
+<!-- Update these with your actual usernames -->
+- **GitHub:** [@ayuup-cj](https://github.com/ayuup-cj)
+- **Dev.to:** [Add username]
+- **CodeSandbox:** [Add username]
+- **LinkedIn:** [Add username]
+- **Twitter:** [Add username]
+- **Instagram:** [Add username]
+- **LeetCode:** [Add username]
+- **HackerRank:** [Add username]
+- **Stack Overflow:** [Add user ID]
+- **Medium:** [@username]
+
+## 📈 Activity Graph
+![Ayuub's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayuup-cj&theme=radical&hide_border=true)
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- Add your blog posts here or use GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 Goals for 2024
+- [x] Start GitHub Profile README
+- [ ] Complete Loan Management System
+- [ ] Contribute to 5 open source projects
+- [ ] Learn React Native
+- [ ] Build a Vue.js project
+- [ ] Write 10 technical blog posts
+
+---
+
+### ⭐️ Support My Work
+If you like what I do, consider giving my repositories a star!
+
+[![GitHub followers](https://img.shields.io/github/followers/ayuup-cj?label=Follow&style=social)](https://github.com/ayuup-cj)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+
+*Last Updated: December 2024*
