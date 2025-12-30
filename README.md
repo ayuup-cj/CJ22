@@ -16,10 +16,8 @@
 - 🆘 I'm looking for help with **advanced React patterns**
 - 🌱 I'm currently learning **React Native**
 - 💬 Ask me about **React, Vue and JavaScript**
-- 📫 How to reach me: **[Add your email here]**
+- 📫 How to reach me: **[ayuubabdirzakayuubcj@gmail.com]**
 - 📁 All of my projects are available at: **[https://github.com/ayuup-cj](https://github.com/ayuup-cj)**
-- ✍️ I regularly write articles on: **[Add your blog link here]**
-- 📄 Know about my experiences: **[Add your resume link here]**
 
 ### 😄 Fun Fact
 I think I am funny
@@ -61,23 +59,14 @@ I think I am funny
 | Platform | Username/Link |
 |----------|---------------|
 | **GitHub** | [@ayuup-cj](https://github.com/ayuup-cj) |
-| **LinkedIn** | [Add your LinkedIn] |
-| **Twitter** | [Add your Twitter] |
-| **Email** | [Add your email] |
-| **Portfolio** | [Add your portfolio] |
+| **LinkedIn** | [Ayuup -cj](https://www.linkedin.com/in/ayuup-cj-04040b304/) |
+| **Email** | [ayuubabdirzakayuubcj](ayuubabdirzakayuubcj@gmail.com) |
 
 ## 🌐 Social Profiles
 <!-- Update these with your actual usernames -->
 - **GitHub:** [@ayuup-cj](https://github.com/ayuup-cj)
-- **Dev.to:** [Add username]
-- **CodeSandbox:** [Add username]
-- **LinkedIn:** [Add username]
-- **Twitter:** [Add username]
-- **Instagram:** [Add username]
-- **LeetCode:** [Add username]
-- **HackerRank:** [Add username]
-- **Stack Overflow:** [Add user ID]
-- **Medium:** [@username]
+- **LinkedIn:** [Ayuup -cj](https://www.linkedin.com/in/ayuup-cj-04040b304/)
+- **Instagram:** [ayuup_apdirzak](https://www.instagram.com/ayuup_apdirzak/)
 
 ## 📈 Activity Graph
 ![Ayuub's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayuup-cj&theme=radical&hide_border=true)
@@ -89,7 +78,7 @@ I think I am funny
 
 ## 🎯 Goals for 2024
 - [x] Start GitHub Profile README
-- [ ] Complete Loan Management System
+- [x] Complete Loan Management System
 - [ ] Contribute to 5 open source projects
 - [ ] Learn React Native
 - [ ] Build a Vue.js project
@@ -101,6 +90,6 @@ I think I am funny
 If you like what I do, consider giving my repositories a star!
 
 [![GitHub followers](https://img.shields.io/github/followers/ayuup-cj?label=Follow&style=social)](https://github.com/ayuup-cj)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://x.com/Utred_anza)
 
 *Last Updated: December 2024*
